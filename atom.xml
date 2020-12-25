@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://luliangdev.coding.net</id>
+    <id>https://luliangdev.cn</id>
     <title>Leo的博客</title>
-    <updated>2020-12-25T02:17:37.763Z</updated>
+    <updated>2020-12-25T02:33:55.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://luliangdev.coding.net"/>
-    <link rel="self" href="https://luliangdev.coding.net/atom.xml"/>
-    <logo>https://luliangdev.coding.net/images/avatar.png</logo>
-    <icon>https://luliangdev.coding.net/favicon.ico</icon>
+    <link rel="alternate" href="https://luliangdev.cn"/>
+    <link rel="self" href="https://luliangdev.cn/atom.xml"/>
+    <logo>https://luliangdev.cn/images/avatar.png</logo>
+    <icon>https://luliangdev.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, Leo的博客</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://luliangdev.coding.net/post/hello-gridea/</id>
-        <link href="https://luliangdev.coding.net/post/hello-gridea/">
+        <id>https://luliangdev.cn/post/hello-gridea/</id>
+        <link href="https://luliangdev.cn/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
