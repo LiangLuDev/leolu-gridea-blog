@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/LiangLuDev/leolu-gridea-blog/</id>
+    <id>https://leolu-gridea-blog.vercel.app</id>
     <title>Leo的博客</title>
-    <updated>2022-01-12T16:03:38.183Z</updated>
+    <updated>2022-01-12T16:07:01.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/LiangLuDev/leolu-gridea-blog/"/>
-    <link rel="self" href="https://github.com/LiangLuDev/leolu-gridea-blog/atom.xml"/>
-    <logo>https://github.com/LiangLuDev/leolu-gridea-blog/images/avatar.png</logo>
-    <icon>https://github.com/LiangLuDev/leolu-gridea-blog/favicon.ico</icon>
+    <link rel="alternate" href="https://leolu-gridea-blog.vercel.app"/>
+    <link rel="self" href="https://leolu-gridea-blog.vercel.app/atom.xml"/>
+    <logo>https://leolu-gridea-blog.vercel.app/images/avatar.png</logo>
+    <icon>https://leolu-gridea-blog.vercel.app/favicon.ico</icon>
     <rights>All rights reserved 2022, Leo的博客</rights>
     <entry>
         <title type="html"><![CDATA[Flutter的滑动冲突 - 右滑父响应，左滑子响应]]></title>
-        <id>https://github.com/LiangLuDev/leolu-gridea-blog/post/flutter-de-hua-dong-chong-tu-you-hua-fu-xiang-ying-zuo-hua-zi-xiang-ying/</id>
-        <link href="https://github.com/LiangLuDev/leolu-gridea-blog/post/flutter-de-hua-dong-chong-tu-you-hua-fu-xiang-ying-zuo-hua-zi-xiang-ying/">
+        <id>https://leolu-gridea-blog.vercel.app/post/flutter-de-hua-dong-chong-tu-you-hua-fu-xiang-ying-zuo-hua-zi-xiang-ying/</id>
+        <link href="https://leolu-gridea-blog.vercel.app/post/flutter-de-hua-dong-chong-tu-you-hua-fu-xiang-ying-zuo-hua-zi-xiang-ying/">
         </link>
         <updated>2021-01-08T15:43:09.000Z</updated>
         <content type="html"><![CDATA[<h2 id="实现效果">实现效果</h2>
@@ -134,8 +134,8 @@ Flutter的生态相比于Android和iOS，还有很大差距。<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[开始做一些微小的工作]]></title>
-        <id>https://github.com/LiangLuDev/leolu-gridea-blog/post/dream-start/</id>
-        <link href="https://github.com/LiangLuDev/leolu-gridea-blog/post/dream-start/">
+        <id>https://leolu-gridea-blog.vercel.app/post/dream-start/</id>
+        <link href="https://leolu-gridea-blog.vercel.app/post/dream-start/">
         </link>
         <updated>2020-12-27T05:04:03.000Z</updated>
         <content type="html"><![CDATA[<p>在2020这个不平凡的一年，也开始了我的梦想第一步。</p>
