@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leolu-blog.vercel.app</id>
     <title>依山傍水</title>
-    <updated>2022-01-13T03:39:21.258Z</updated>
+    <updated>2022-01-13T06:33:39.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leolu-blog.vercel.app"/>
     <link rel="self" href="https://leolu-blog.vercel.app/atom.xml"/>
@@ -19,7 +19,7 @@
 <blockquote>
 <p>右滑「父组件PageView」响应，左滑「子组件PageView的Item」响应</p>
 </blockquote>
-<figure data-type="image" tabindex="1"><img src="https://luliangdev.coding.net/p/public-pic/d/public-pic/git/raw/master/scroll_conflict.gif" alt="scroll_conflict.gif" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://leolu-blog.vercel.app/post-images/1642055528552.gif" alt="scroll_conflict.gif" loading="lazy"></figure>
 <h2 id="滑动基础组件">滑动基础组件</h2>
 <h3 id="scrollcontroller-滑动控制器">ScrollController - 滑动控制器</h3>
 <p>控制可滚动组件的滚动位置以及获取滚动状态属性（真正控制滚动行为的是<strong>ScrollPosition</strong>）</p>
