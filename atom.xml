@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leolu-blog.vercel.app</id>
-    <title>依山傍水</title>
-    <updated>2022-01-13T06:36:21.667Z</updated>
+    <title>生活不止眼前的苟且，还有诗和远方的田野</title>
+    <updated>2022-01-13T06:41:25.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leolu-blog.vercel.app"/>
     <link rel="self" href="https://leolu-blog.vercel.app/atom.xml"/>
     <logo>https://leolu-blog.vercel.app/images/avatar.png</logo>
     <icon>https://leolu-blog.vercel.app/favicon.ico</icon>
-    <rights>All rights reserved 2022, 依山傍水</rights>
+    <rights>All rights reserved 2022, 生活不止眼前的苟且，还有诗和远方的田野</rights>
     <entry>
         <title type="html"><![CDATA[Flutter的滑动冲突 - 右滑父响应，左滑子响应]]></title>
         <id>https://leolu-blog.vercel.app/post/flutter-de-hua-dong-chong-tu-you-hua-fu-xiang-ying-zuo-hua-zi-xiang-ying/</id>
