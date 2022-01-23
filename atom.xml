@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leolu-blog.vercel.app</id>
     <title>This is where Draven shines</title>
-    <updated>2022-01-23T14:48:42.475Z</updated>
+    <updated>2022-01-23T14:51:01.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leolu-blog.vercel.app"/>
     <link rel="self" href="https://leolu-blog.vercel.app/atom.xml"/>
@@ -52,9 +52,9 @@
 <ul>
 <li>2021.03.09 ：花火阅读首次上线</li>
 <li>2021.04.16 ：花火新增用户突破1000，AppStore分类排名进前100</li>
-<li>2021.06.20 ：花火日活到达10000</li>
-<li>2021.08.23 ：花火总用户突破100000</li>
-<li>2022.01.15 ： 花火总用户突破200000</li>
+<li>2021.06.20 ：花火<strong>日活</strong>到达1W</li>
+<li>2021.08.23 ：花火总用户突破10W</li>
+<li>2022.01.15 ： 花火总用户突破20W</li>
 <li>共更新28个版本</li>
 <li>聚拢了5个QQ群接近1W人</li>
 <li>公众号关注4W人</li>
