@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leolu-blog.vercel.app</id>
     <title>This is where Draven shines</title>
-    <updated>2022-01-23T12:46:44.391Z</updated>
+    <updated>2022-01-23T12:51:36.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leolu-blog.vercel.app"/>
     <link rel="self" href="https://leolu-blog.vercel.app/atom.xml"/>
@@ -15,10 +15,8 @@
         <link href="https://leolu-blog.vercel.app/post/wei-zhao-dao-na-pian-hai-bu-gu-yi-qie/">
         </link>
         <updated>2022-01-23T12:21:56.000Z</updated>
-        <summary type="html"><![CDATA[<p>这一年很难，但也收获满满。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>这一年很难，但也收获满满。</p>
-<!-- more -->
+        <content type="html"><![CDATA[<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://leolu-blog.vercel.app/post-images/wei-zhao-dao-na-pian-hai-bu-gu-yi-qie.png" alt="cover" loading="lazy"></figure>
 <h3 id="前言">前言</h3>
 <p>时光飞逝，又到了旧年的结束，新年的开始。被疫情笼罩的这两年，在我的感受中，仿佛这个特殊的年份有25个月，习惯了出门戴口罩，进门手消毒。</p>
 <p>模糊的记忆里，在03年的非典，空气中弥漫着板蓝根的药草味，学校的停课让那一年度过愉快而漫长的假期，几年之后，世界又恢复了原本生机勃勃的模样，所以很快，新冠疫情就会过去。</p>
