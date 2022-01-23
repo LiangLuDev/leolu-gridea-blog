@@ -2,13 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leolu-blog.vercel.app</id>
     <title>This is where Draven shines</title>
-    <updated>2022-01-13T14:15:40.825Z</updated>
+    <updated>2022-01-23T12:46:44.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leolu-blog.vercel.app"/>
     <link rel="self" href="https://leolu-blog.vercel.app/atom.xml"/>
     <logo>https://leolu-blog.vercel.app/images/avatar.png</logo>
     <icon>https://leolu-blog.vercel.app/favicon.ico</icon>
     <rights>All rights reserved 2022, This is where Draven shines</rights>
+    <entry>
+        <title type="html"><![CDATA[为找到那片海不顾一切]]></title>
+        <id>https://leolu-blog.vercel.app/post/wei-zhao-dao-na-pian-hai-bu-gu-yi-qie/</id>
+        <link href="https://leolu-blog.vercel.app/post/wei-zhao-dao-na-pian-hai-bu-gu-yi-qie/">
+        </link>
+        <updated>2022-01-23T12:21:56.000Z</updated>
+        <summary type="html"><![CDATA[<p>这一年很难，但也收获满满。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这一年很难，但也收获满满。</p>
+<!-- more -->
+<h3 id="前言">前言</h3>
+<p>时光飞逝，又到了旧年的结束，新年的开始。被疫情笼罩的这两年，在我的感受中，仿佛这个特殊的年份有25个月，习惯了出门戴口罩，进门手消毒。</p>
+<p>模糊的记忆里，在03年的非典，空气中弥漫着板蓝根的药草味，学校的停课让那一年度过愉快而漫长的假期，几年之后，世界又恢复了原本生机勃勃的模样，所以很快，新冠疫情就会过去。</p>
+<p>我们做好防疫，加强锻炼增强抵抗力，只有生病之后，才知道生命的脆弱。希望身边的人都健康。</p>
+<h2 id="工作">工作</h2>
+<ul>
+<li>年中项目组来了个「大聪明」项目经理，导致整个项目组很累很疲惫，一度准备跳槽。</li>
+<li>调薪一次，但没有了那种涨薪的带来的快感。</li>
+<li>获得两个项目奖金。</li>
+<li>出差：深圳、广州（并跟广州小伙伴带薪嗨皮了一个周末）</li>
+<li>剩下的就是写代码、开会、摸鱼、开会、写代码、加班写代码……</li>
+</ul>
+<h2 id="天堂">天堂</h2>
+<p>天有不测风云，人有祸福旦夕。<br>
+10月份，亲叔叔在工作意外死亡，7月份还在一起喝酒，再次见面时却……<br>
+在我的记忆中，叔叔从未歇息，只想为那好吃懒做的儿子攒钱，希望儿子以后能够独立生活，却从未考虑过自己未来的生活。那一刻我在想，这未尝不是一种解脱。</p>
+<p>那段时间我整个人都是迷迷糊糊的，像是在做梦一样，仿佛虚拟和现实无法分辨。难以入眠，想了很多很多，在生命面前一切都显得如此渺小。很多你认为很重要事情的好像并没有很重要，因为终会有解决方案。比如：大BUG、项目Delay、App下架、收到律师函……</p>
+<h2 id="运动">运动</h2>
+<p>我很喜欢运动，除了强身健体，也能让脑子难得的安静。<br>
+我经常会在运动中迸发一些想法，或是提升用户体验，或是问题解决方案，或是新的idea。</p>
+<p>从5月份开始，基本上每天都会运动，每周有氧4天，游泳2天，周而复始。<br>
+身体状态明显好了太多，睡眠质量也高了很多，唯一的“缺点”就是体检又白去了……</p>
+<p>我不想在我努力拼搏多年，留下一副虚弱的身体，却无力享受甜蜜的果实。<br>
+这一年，身体健康的优先级最高。我希望未来也是。</p>
+<h2 id="个人项目">个人项目</h2>
+<p>这一年，投入了所有的业余时间做个人项目，从项目上线，闪退发热，到下架整改，收到律师函。好像该经历不该经历的都来了一遍，但我们从未放弃。我们三人相互鼓励，寻找了一切可能性，最终，完美解决并稳步前进。<br>
+经过市场反馈，也确信我们有做好产品的能力。同时也坚定了我们走向全职独立开发者的信心。</p>
+<!-- more -->
+<p>同时，我们也在规划新的项目，期待见面的那一天。</p>
+<blockquote>
+<p><a href="https://apps.apple.com/cn/app/%E8%8A%B1%E7%81%AB%E9%98%85%E8%AF%BB/id1546631588"><strong>花火阅读</strong></a> <strong>：</strong> 增长的速度，让我们始料未及，欣喜之余也在规划它未来的路。</p>
+</blockquote>
+<ul>
+<li>2021.03.09 ：花火阅读首次上线</li>
+<li>2021.04.16 ：花火新增用户突破1000，AppStore分类排名进前100</li>
+<li>2021.06.20 ：花火日活到达10000</li>
+<li>2021.08.23 ：花火总用户突破100000</li>
+<li>2022.01.15 ： 花火总用户突破200000</li>
+<li>共更新28个版本</li>
+<li>聚拢了5个QQ群接近1W人</li>
+<li>公众号关注4W人</li>
+<li>收获无数好评和感谢</li>
+</ul>
+<blockquote>
+<p><a href="https://apps.apple.com/cn/app/%E7%89%87%E8%AF%AD/id1533270442"><strong>片语</strong></a>：诞生于我们日常需求的碎片记录工具。这款工具用户不多，它的初衷是服务于我们自己，也希望能帮到有此需求的朋友，这一年更新了4个版本。考虑到数据安全，也从自建服务器方案，改为iCloud/坚果云方案同步数据，所有的数据掌握在用户手里。</p>
+</blockquote>
+<h2 id="最后">最后</h2>
+<p>就像许巍唱的那样：生活不止眼前的苟且，还有诗和远方的田野。</p>
+<p>是的，我现在所有的努力，都是希望在未来可以摆脱螺丝钉的工作，寻求自由的生活。<br>
+愿我们现在所有的努力，可以让未来过的毫不费力。</p>
+<p>希望我可以早日追寻到我的诗和远方。当然，也祝愿看到这里的你！！！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flutter的滑动冲突 - 右滑父响应，左滑子响应]]></title>
         <id>https://leolu-blog.vercel.app/post/flutter-de-hua-dong-chong-tu-you-hua-fu-xiang-ying-zuo-hua-zi-xiang-ying/</id>
