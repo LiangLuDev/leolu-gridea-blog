@@ -1923,4 +1923,7 @@ code::-webkit-scrollbar-thumb:hover {
       .gt-a-link {
     background: none!important;
 }
+body{
+    -webkit-font-smoothing: antialiased;
+}
     
