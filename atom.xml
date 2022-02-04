@@ -2,13 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leolu-blog.vercel.app</id>
     <title>This is where Draven shines</title>
-    <updated>2022-01-26T03:27:35.749Z</updated>
+    <updated>2022-02-04T07:30:28.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leolu-blog.vercel.app"/>
     <link rel="self" href="https://leolu-blog.vercel.app/atom.xml"/>
     <logo>https://leolu-blog.vercel.app/images/avatar.png</logo>
     <icon>https://leolu-blog.vercel.app/favicon.ico</icon>
     <rights>All rights reserved 2022, This is where Draven shines</rights>
+    <entry>
+        <title type="html"><![CDATA[或许是最孤独的新年]]></title>
+        <id>https://leolu-blog.vercel.app/post/huo-xu-shi-zui-gu-du-de-xin-nian/</id>
+        <link href="https://leolu-blog.vercel.app/post/huo-xu-shi-zui-gu-du-de-xin-nian/">
+        </link>
+        <updated>2022-02-04T07:26:26.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://leolu-blog.vercel.app/post-images/1643959647127.webp" alt="" loading="lazy"></figure>
+<p>疫情原因，今年就上海原地过年了。（为社会做贡献了属于是）</p>
+<p>好像我们这代人不愿跟亲戚社交，回家也是宅在房间，俺也一样</p>
+<p>这么多年，我对节日毫无感觉，生日、新年对我来说，意义不大，社会营造的气氛，显得很热烈。</p>
+<p>当然，假定日放假这个很重要。</p>
+<p>过年那一天，也是第一次一个人过新年，朋友圈充斥着新年的气氛，跟父母视频后，我默默的打开了王者荣耀。拿了一个五杀，大多数MVP，新年也不过如此。躺在床上的时候，平静的内心复盘了这一年，好像做了很多事，好像什么都没做。</p>
+<p>初一开始，我就到公司来加班了，毕竟谁能拒绝三倍工资呢，反正在家没啥事。预计这7天都在公司加班了（加班打游戏，健身）。</p>
+<p>今天初四，认真制定了2022年的OKR，把一直想做的事情加入计划清单，也认真思考了对于未来的打算。</p>
+<p>这一年重中之重还是健身，彭于晏的剧中说：自己的身体都管理不好，还妄想能做好什么呢？</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为找到那片海不顾一切]]></title>
         <id>https://leolu-blog.vercel.app/post/wei-zhao-dao-na-pian-hai-bu-gu-yi-qie/</id>
